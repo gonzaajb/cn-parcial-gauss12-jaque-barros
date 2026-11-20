@@ -74,4 +74,4 @@ Todo el análisis de costo, mantisa, condicionamiento y verificación está en [
 
 ## Licencia / uso
 
-Este es un trabajo académico que hicimos en pareja para INF-321 en la Universidad Católica del Maule. Puedes leerlo y correrlo como referencia pero no lo entregues como si fuera tuyo
+Este es un trabajo académico que hicimos en pareja para INF-321 en la Universidad Católica del Maule. Puedes leerlo y correrlo sólo como referencia
